@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 856 >>
+stream
+BT
+/F1 11 Tf
+50 780 Td
+14 TL
+(Purdue Student Bank Statement - April 2026) Tj
+T* (Name: Aman Patel) Tj
+T* (Address: 480 Stadium Ave Apt 3C, West Lafayette, IN 47906) Tj
+T* (Phone: 765-555-0192) Tj
+T* (Email: aman.patel22@purdue.edu) Tj
+T* (SSN: 123-45-6789) Tj
+T* (Account Number: 48293017721) Tj
+T* (Card Number: 4242 4242 4242 4242) Tj
+T* (Statement Date: 2026-04-10) Tj
+T* () Tj
+T* (Transactions:) Tj
+T* (2026-04-02  Triple XXX Family Restaurant      $18.75) Tj
+T* (2026-04-06  Starbucks Chauncey                 $9.40) Tj
+T* (2026-04-08  Rent payment to LANDLORD_1       $620.00) Tj
+T* (2026-04-09  Payroll Deposit                  $425.00) Tj
+T* (2026-04-10  Spotify Premium                   $11.99) Tj
+T* (2026-04-10  Electricity Bill                  $47.23) Tj
+T* () Tj
+T* (Notes: Paid Mike Johnson back $40 for pizza \(phone 765-555-0142\).) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1218
+%%EOF

@@ -1,6 +1,6 @@
-# 🤖 Purdue Budget Assistant Starter
+# 🤖 Budget Assistant Starter
 
-Purdue Budget Assistant Starter is a fine-tuning and guardrails starter project for a budget assistant with PII safety controls. The project explores how an AI assistant can answer budget-related questions while also protecting sensitive information and following safer input-handling rules.
+Budget Assistant Starter is a fine-tuning and guardrails starter project for a budget assistant with PII safety controls. The project explores how an AI assistant can answer budget-related questions while also protecting sensitive information and following safer input-handling rules.
 
 This project is not just a basic chatbot. I built it around the idea that LLM applications need structure, validation, and guardrails before they can be trusted with real user inputs. The app includes prompt blocking, document upload and redaction, a chat API, and scripts for working with fine-tuning data.
 
